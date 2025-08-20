@@ -8,9 +8,9 @@ int hello1Function(string name1);
 int hello2Function(string name2);
 int main()
 {
-    string name1="your name1";
+    string name1="Sear Sears";
     hello1Function(name1);
-    string name2="your name2";
+    string name2="Kevin Azarbal";
     hello2Function(name2);
     return 0;
 }
@@ -26,8 +26,8 @@ int hello1Function(string name1)
 cout << "hello World " << name1 << endl;
 return 0;
 }
-Lab 2
-hello1Function
+// Lab 2
+// hello1Function
 /*
 * hello2Function.cpp
 *
