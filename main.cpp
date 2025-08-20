@@ -1,4 +1,4 @@
-// Author Your Name
+// Author : Eric Sears
 // Description: Hello World in C++
 //============================================================
 
@@ -12,6 +12,10 @@ int main()
     hello1Function(name1);
     string name2="Kevin Azarbal";
     hello2Function(name2);
+
+    string name3 = "your name3";
+    hello2Function(name3);
+
     return 0;
 }
 
