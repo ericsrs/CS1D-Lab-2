@@ -18,14 +18,14 @@ void getName(string& first, string& last);
 personType(string first, string last);
 //Constructor with parameters
 
-//Set firstName and lastName according to the parameters
-//Post: firstName = first; lastName = last;
+//! Set firstName and lastName according to the parameters
+//! Post: firstName = first; lastName = last;
 personType();
-//Default constructor;
-//Intialize firstName and lastName to empty string
-//Post: firstName = ""; lastName = "";
+//!< Default constructor;
+//!< Intialize firstName and lastName to empty string
+//!< Post: firstName = ""; lastName = "";
 private:
-string firstName; //store the first name
-string lastName; //store the last name
+string firstName; //!< store the first name
+string lastName; //!< store the last name
 };
 #endif
