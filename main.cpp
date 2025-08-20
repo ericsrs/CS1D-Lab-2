@@ -1,4 +1,4 @@
-// Author : Eric Sears
+// Author : Eric Sears, Paul Szoldra
 // Description: Hello World in C++
 //============================================================
 
