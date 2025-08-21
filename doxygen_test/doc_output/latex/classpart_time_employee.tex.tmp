@@ -1,0 +1,44 @@
+\doxysection{part\+Time\+Employee Class Reference}
+\hypertarget{classpart_time_employee}{}\label{classpart_time_employee}\index{partTimeEmployee@{partTimeEmployee}}
+
+
+Inheritance diagram for part\+Time\+Employee\+:
+% FIG 0
+
+
+Collaboration diagram for part\+Time\+Employee\+:
+% FIG 1
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{classpart_time_employee_a2bef6c6e221f70921aca3586b7ee5517}\label{classpart_time_employee_a2bef6c6e221f70921aca3586b7ee5517} 
+void {\bfseries print} ()
+\item 
+\Hypertarget{classpart_time_employee_a920d86397b0962a8fe0eb75990b4d597}\label{classpart_time_employee_a920d86397b0962a8fe0eb75990b4d597} 
+double {\bfseries calculate\+Pay} ()
+\item 
+\Hypertarget{classpart_time_employee_a1b46f9a17525cf24018e031f5e254c35}\label{classpart_time_employee_a1b46f9a17525cf24018e031f5e254c35} 
+void {\bfseries set\+Name\+Rate\+Hours} (string first, string last, double rate, double hours)
+\item 
+\Hypertarget{classpart_time_employee_af3e291ddea6648881c9238c31d8a62a2}\label{classpart_time_employee_af3e291ddea6648881c9238c31d8a62a2} 
+{\bfseries part\+Time\+Employee} (string first, string last, double rate, double hours)
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions inherited from \mbox{\hyperlink{classperson_type}{person\+Type}}}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries print} () const
+\item 
+void {\bfseries set\+Name} (string first, string last)
+\item 
+void {\bfseries get\+Name} (string \&first, string \&last)
+\item 
+{\bfseries person\+Type} (string first, string last)
+\item 
+\mbox{\hyperlink{classperson_type_ac594fb728f8125503092d513923d422b}{person\+Type}} ()
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+part\+Time\+Employee.\+h\item 
+part\+Time\+Employee.\+cpp\end{DoxyCompactItemize}
